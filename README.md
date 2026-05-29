@@ -1,2 +1,1 @@
-# CLINICAL-SAS-PROJECT
-Clinical SAS project demonstrating SDTM, ADaM, TLF generation, data validation, and reporting using SAS programming on a lung cancer clinical trial dataset. Includes DATA Step, PROC SQL, PROC FREQ, and ODS-based report generation following CDISC standards.
+Developed a Clinical SAS project using a lung cancer clinical dataset. Performed data cleaning, transformation, and validation using Base SAS. Created CDISC-compliant SDTM and ADaM datasets, generated Tables, Listings, and Figures (TLFs), and produced clinical reports. Applied SAS programming techniques including DATA Step, PROC SQL, PROC FREQ, PROC REPORT, and ODS reporting. Demonstrated end-to-end clinical trial data processing and reporting workflow following industry standards.
